@@ -2,8 +2,16 @@
 layout: post
 title: The most recent post so far
 author: john_doe
-date: '2018-07-19 10:07:32'
-intro_paragraph: ''
+date: 2018-07-19 10:07:32
+intro_paragraph: ""
 categories: misc
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+Praleidęs daugiu nei 10 metų administruodamas serverius ir įrangą juose nusprendžiau pasidalinti patirtimi ir geriausiomis praktikomis kaip administruoti Cron darbus.
+
+Periodinių užduočių valdymo sistema - [Cron](http://man7.org/linux/man-pages/man8/cron.8.html) - viena populiariausių programinių įrangų Linux sistemose.
+
+Apie ją turėti žinoti kiekvienas IT srityje dirbantis žmogus.
+
+Sunkiai rastume projektą kuris kaip nors išgyventų be periodinių užduočių: el. laiškų siuntimo, naujienlaiškių siuntimo, laiškų tikrinimo, duomenų generavimo, duomenų importavimo, duomenų siuntimo ar kito darbo su trečiųjų šalių sistemomis (tarkime API).
+
+Išmokti valdyti Cron nėra sudėtinga, o žinios, kuriomis pasidalinsiu, galėtų padėti išvengti dažnai pasitaikančių bėdų ar nesusipratimų.
